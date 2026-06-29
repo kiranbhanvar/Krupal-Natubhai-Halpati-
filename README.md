@@ -24,10 +24,10 @@ We've used industry-standard design tools to create an intuitive and visually ap
 You can access the live version of this project at [Password Strength Checker](https://password-strength.vercel.app/). Try it out and enhance your password security!
 
 📧 **Get in Touch*
-For inquiries, collaboration, or just to say hello, reach out to us at 📩 krupalhalpati249@gmail.com 
+For inquiries, collaboration, or just to say hello, reach out to us at 📩 kiranbhanvar41@gmail.com 
 
 🌟 **Portfolio**
-Discover more of our fantastic projects at [Krupal Halpati Portfolio](). Your journey into the world of technology starts here!
+Discover more of our fantastic projects at [Kiran Bhanvar Portfolio](). Your journey into the world of technology starts here!
 
 
 ## Thank You! 👏
